@@ -2,11 +2,11 @@
   "name": "github_actions",
   "version": "1.0.0",
   "description": "this is git_hub_actions_pipeline_CI/CD",
-  "main": "index.js",
+  "main": "app.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "author": "aknandansharma",
   "license": "ISC",
