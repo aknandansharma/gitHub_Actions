@@ -1,0 +1,20 @@
+{
+  "name": "github_actions",
+  "version": "1.0.0",
+  "description": "this is git_hub_actions_pipeline_CI/CD",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "aknandansharma",
+  "license": "ISC",
+  "dependencies": {
+    "cores": "^0.8.5",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6"
+  }
+}
